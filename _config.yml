@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "FOSDEM'16 HPC, Big Data, and Data Science Devroom"
+title:       "FOSDEM'17 HPC, Big Data, and Data Science Devroom"
 keywords:    "hpc, big data, data science"
-description: "FOSDEM'16 HPC, Big Data, and Data Science Devroom"
-source_link: "https://github.com/hpcugent/fosdem2016_hpc_bigdata_devroom"
+description: "FOSDEM'17 HPC, Big Data, and Data Science Devroom"
+source_link: "https://github.com/hpcugent/fosdem2017_hpc_bigdata_devroom"
 favicon:     "img/favicon.ico"
 
 

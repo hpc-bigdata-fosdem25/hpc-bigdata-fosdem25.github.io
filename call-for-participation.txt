@@ -1,11 +1,11 @@
-FOSDEM'16 HPC, Big Data, and Data Science Devroom Call for Participation
+FOSDEM'17 HPC, Big Data, and Data Science Devroom Call for Participation
 
-Sunday, January 31, 2016, Brussels, Belgium
+Saturday or Sunday, February 4th or 5th, 2017, Brussels, Belgium
 
 # Overview
 
 We are proud to announce the 1st edition of the HPC, Big Data and Data Science
-devroom, co-located with FOSDEM 2016. FOSDEM is an annual conference about free
+devroom, co-located with FOSDEM 2017. FOSDEM is an annual conference about free
 and open source software, attended by over 5000 developers and open-source
 enthusiasts from all over the world. FOSDEM has hosted an HPC devroom before,
 but this is the first time that representatives from the HPC and Big Data
@@ -36,7 +36,7 @@ devroom.
     challenges presented by large scale computing, data management and data
     analysis.
 
-The devroom will take place on Sunday, January 31st 2016, at ULB (Campus
+The devroom will take place on Saturday or Sunday, February 4th or 5th 2017, at ULB (Campus
 Solbosch), in Brussels, Belgium. Join us to enjoy a full day of talks, demos and
 interesting discussions on open-source HPC, Big Data and Data Science.
 
@@ -122,7 +122,7 @@ We would also like to note:
     All accepted talks will be about (using) free and open source software. We
     highly discourage “marketing” talks.
 
-Submit here: <https://penta.fosdem.org/submission/FOSDEM16>
+Submit here: <https://penta.fosdem.org/submission/FOSDEM17>
 
 When submitting your talk in Pentabarf, make sure to select the ‘HPC, Big Data,
 and Data Science Devroom’ as the ‘Track’.
@@ -132,19 +132,19 @@ reuse it. Create an account if, and only if, you don’t have one from a previou
 year. If you have any issues with Pentabarf, do not despair: contact
 hpc-bigdata-devroom [at] lists.fosdem.org .  Dates
 
-Call for parcipation available: November 2, 2015
+Call for parcipation available: TBD
 
-Call for participation closes: December 4, 2015
+Call for participation closes: TBD
 
-Devroom schedule available: December 18, 2015
+Devroom schedule available: TBD
 
-Devroom dinner: Saturday January 30, 2016 (subject to change)
+Devroom dinner: TBD
 
-Devroom date: Sunday January 31, 2016
+Devroom date: TBD
 
 # Organizers
 
-    Ewan Higgs - HPC team at Ghent University
+    Ewan Higgs - Western Digital
     Kenneth Hoste - HPC team at Ghent University
     Roman Shaposhnik - Pivotal
     Vasia Kalavri - KTH Royal Institute of Technology (KTH)
