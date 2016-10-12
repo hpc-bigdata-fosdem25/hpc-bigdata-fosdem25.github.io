@@ -1,6 +1,6 @@
 FOSDEM'17 HPC, Big Data, and Data Science Devroom Call for Participation
 
-Saturday or Sunday, February 4th or 5th, 2017, Brussels, Belgium
+Saturday, February 4th, 2017, Brussels, Belgium
 
 # Overview
 
@@ -36,7 +36,7 @@ devroom.
     challenges presented by large scale computing, data management and data
     analysis.
 
-The devroom will take place on Saturday or Sunday, February 4th or 5th 2017, at ULB (Campus
+The devroom will take place on Saturday, February 4th, 2017, at ULB (Campus
 Solbosch), in Brussels, Belgium. Join us to enjoy a full day of talks, demos and
 interesting discussions on open-source HPC, Big Data and Data Science.
 
