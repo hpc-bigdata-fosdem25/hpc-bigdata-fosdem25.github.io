@@ -9,7 +9,7 @@ icon-title: true
 
 We invite presenters to submit talk proposals to present high-quality work with sufficient background
 material to be clear to the HPC, Big Data, and/or Data Science communities.
-Talks proposals should be submitted through the [FOSDEM Pentabarf
+Talk proposals should be submitted through the [FOSDEM Pentabarf
 server](https://penta.fosdem.org/submission/FOSDEM17). Submissions must include:
 
 - Abstract

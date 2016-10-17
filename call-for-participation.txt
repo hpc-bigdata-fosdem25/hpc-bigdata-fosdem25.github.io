@@ -4,11 +4,11 @@ Saturday, February 4th, 2017, Brussels, Belgium
 
 # Overview
 
-We are proud to announce the 1st edition of the HPC, Big Data and Data Science
+We are proud to announce the 2nd edition of the HPC, Big Data and Data Science
 devroom, co-located with FOSDEM 2017. FOSDEM is an annual conference about free
 and open source software, attended by over 5000 developers and open-source
 enthusiasts from all over the world. FOSDEM has hosted an HPC devroom before,
-but this is the first time that representatives from the HPC and Big Data
+and this is the second time that representatives from the HPC and Big Data
 communities are joining forces to bring both communities together with this
 devroom.
 
@@ -81,7 +81,7 @@ Topics of interest include, but are not limited to:
 
     Big Data platforms, extensions to existing systems, libraries, APIs
 
-    Experiences reports on using Big Data systems, for example:
+    Experience reports on using Big Data systems, for example:
         Large-scale deployments
         Development and configuration issues
         Tuning and performance tips and lessons learned
@@ -100,7 +100,7 @@ Topics of interest include, but are not limited to:
 
 We invite presenters to submit talk proposals to present high-quality work with
 sufficient background material to be clear to the HPC, Big Data, and/or Data
-Science communities. Talks proposals should be submitted through the FOSDEM
+Science communities. Talk proposals should be submitted through the FOSDEM
 Pentabarf server. Submissions must include:
 
     Abstract
@@ -132,15 +132,15 @@ reuse it. Create an account if, and only if, you don’t have one from a previou
 year. If you have any issues with Pentabarf, do not despair: contact
 hpc-bigdata-devroom [at] lists.fosdem.org .  Dates
 
-Call for parcipation available: TBD
+Call for parcipation available: 17 October 2016
 
-Call for participation closes: TBD
+Call for participation closes: 2 December 2016
 
-Devroom schedule available: TBD
+Devroom schedule available: 16 December 2016
 
 Devroom dinner: TBD
 
-Devroom date: TBD
+Devroom date: 4 February 2017
 
 # Organizers
 
