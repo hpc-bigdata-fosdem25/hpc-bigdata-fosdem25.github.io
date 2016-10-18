@@ -7,16 +7,14 @@ fa-icon: calendar
 icon-title: true
 ---
 
-Call for participation available: 17 October 2016
+Call for participation available: Wednesday 19 October 2016
 
-<strong>Call for participation closes: 2 December 2016</strong>
-<em>(there will be <strong>no extensions</strong> to the deadline)</em>
+<strong>Call for participation closes: Friday 2 December 2016</strong>
+<em>(there will be <strong>no extensions</strong> to the deadline!)</em>
 
 Devroom schedule available: 16 December 2016
 
-Devroom dinner: TBD
-
-Devroom date: 4 February 2017
+<strong>Devroom date: Saturday 4 February 2017</strong>
 
 If you would like to create an associated event for the devroom, please [fork the
 page and send a pull
