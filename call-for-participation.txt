@@ -7,10 +7,9 @@ Saturday, February 4th, 2017, Brussels, Belgium
 We are proud to announce the 2nd edition of the HPC, Big Data and Data Science
 devroom, co-located with FOSDEM 2017. FOSDEM is an annual conference about free
 and open source software, attended by over 5000 developers and open-source
-enthusiasts from all over the world. FOSDEM has hosted an HPC devroom before,
-and this is the second time that representatives from the HPC and Big Data
-communities are joining forces to bring both communities together with this
-devroom.
+enthusiasts from all over the world. This devroom is organised by representatives
+from the HPC and Big Data communities, who are joining forces to bring both
+communities together.
 
     High Performance Computing (HPC) and Big Data are two important approaches
     to scientific computing. HPC typically deals with smaller, highly structured
@@ -130,17 +129,19 @@ and Data Science Devroom’ as the ‘Track’.
 If you already have a Pentabarf account from a previous FOSDEM edition, please
 reuse it. Create an account if, and only if, you don’t have one from a previous
 year. If you have any issues with Pentabarf, do not despair: contact
-hpc-bigdata-devroom [at] lists.fosdem.org .  Dates
+hpc-bigdata-devroom [at] lists.fosdem.org.
 
-Call for parcipation available: 17 October 2016
+# Dates
 
-Call for participation closes: 2 December 2016
+Call for participation available: Wednesday 19 October 2016
+
+Call for participation closes: Friday 2 December 2016 (there will be no extensions to the deadline!)
 
 Devroom schedule available: 16 December 2016
 
 Devroom dinner: TBD
 
-Devroom date: 4 February 2017
+Devroom date: Saturday 4 February 2017
 
 # Organizers
 
@@ -148,9 +149,6 @@ Devroom date: 4 February 2017
     Kenneth Hoste - HPC team at Ghent University
     Roman Shaposhnik - Pivotal
     Vasia Kalavri - KTH Royal Institute of Technology (KTH)
-
-We adopt the Apache Code of Conduct.
-<http://www.apache.org/foundation/policies/conduct.html>
 
 Please email hpc-bigdata-devroom@lists.fosdem.org with questions or concerns.
 
