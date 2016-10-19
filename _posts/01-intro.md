@@ -26,11 +26,9 @@ style: left
 Welcome to the 2nd edition of the HPC, Big Data and Data Science devroom,
 co-located with [FOSDEM 2017](https://fosdem.org/2017/). FOSDEM is an annual
 conference about free and open source software, attended by over 5000
-developers and open-source enthusiasts from all over the world. FOSDEM has
-hosted an [HPC devroom
-before](https://archive.fosdem.org/2014/schedule/track/hpc_and_computational_science),
-but this is the first time that representatives from the HPC and Big Data communities
-are joining forces to bring both communities together with this devroom.
+developers and open-source enthusiasts from all over the world. This devroom
+is organised by representatives from the HPC and Big Data communities,
+who are joining forces to bring both communities together.
 
 - High Performance Computing (HPC) and Big Data are two important approaches to scientific computing.
   HPC typically deals with smaller, highly structured data sets and huge amounts of computation while
