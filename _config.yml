@@ -10,14 +10,14 @@ exclude: [CNAME, README.md, .gitignore]
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 
 ### content configuration ###
-title:       "FOSDEM'17 HPC, Big Data, and Data Science Devroom"
+title:       "FOSDEM'18 HPC, Big Data, and Data Science Devroom"
 keywords:    "hpc, big data, data science"
-description: "FOSDEM'17 HPC, Big Data, and Data Science Devroom"
-source_link: "https://github.com/hpcugent/fosdem2017_hpc_bigdata_devroom"
+description: "FOSDEM'18 HPC, Big Data, and Data Science Devroom"
+source_link: "https://github.com/hpc-bigdata-fosdem18/hpc-bigdata-fosdem18.github.io"
 favicon:     "img/favicon.ico"
 
 
