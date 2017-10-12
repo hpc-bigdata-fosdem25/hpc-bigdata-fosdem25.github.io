@@ -14,4 +14,4 @@ encoding: utf-8
 * [Roman Shaposhnik](https://github.com/rvs)
 * [Vasia Kalavri](https://github.com/vasia) - [ETH Zürich](https://www.ethz.ch)
 
-Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2017/practical/conduct/).
+Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2018/practical/conduct/).
