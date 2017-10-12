@@ -1,11 +1,11 @@
-FOSDEM'17 HPC, Big Data, and Data Science Devroom Call for Participation
+FOSDEM'18 HPC, Big Data, and Data Science Devroom Call for Participation
 
-Saturday, February 4th, 2017, Brussels, Belgium
+Sunday, February 4th, 2018, Brussels, Belgium
 
 # Overview
 
-We are proud to announce the 2nd edition of the HPC, Big Data and Data Science
-devroom, co-located with FOSDEM 2017. FOSDEM is an annual conference about free
+We are proud to announce the 3rd edition of the HPC, Big Data and Data Science
+devroom, co-located with FOSDEM 2018. FOSDEM is an annual conference about free
 and open source software, attended by over 5000 developers and open-source
 enthusiasts from all over the world. This devroom is organised by representatives
 from the HPC and Big Data communities, who are joining forces to bring both
@@ -24,7 +24,7 @@ communities together.
 
     Free and Open Source communities have been the foundation of the HPC and Big
     Data communities for some time. In the HPC community, it should be no
-    surprise that 497 of the Top500 supercomputers in the world run Linux. On
+    surprise that 498 of the Top500 supercomputers in the world run Linux. On
     the Big Data side, the Hadoop ecosystem has had a tremendous amount of Open
     Source contributions from a wide range of organizations coming together
     under the Apache Software Foundation.
@@ -35,7 +35,7 @@ communities together.
     challenges presented by large scale computing, data management and data
     analysis.
 
-The devroom will take place on Saturday, February 4th, 2017, at ULB (Campus
+The devroom will take place on Sunday, February 4th, 2018, at ULB (Campus
 Solbosch), in Brussels, Belgium. Join us to enjoy a full day of talks, demos and
 interesting discussions on open-source HPC, Big Data and Data Science.
 
@@ -121,7 +121,7 @@ We would also like to note:
     All accepted talks will be about (using) free and open source software. We
     highly discourage “marketing” talks.
 
-Submit here: <https://penta.fosdem.org/submission/FOSDEM17>
+Submit here: <https://penta.fosdem.org/submission/FOSDEM18>
 
 When submitting your talk in Pentabarf, make sure to select the ‘HPC, Big Data,
 and Data Science Devroom’ as the ‘Track’.
@@ -133,22 +133,21 @@ hpc-bigdata-devroom [at] lists.fosdem.org.
 
 # Dates
 
-Call for participation available: Wednesday 19 October 2016
+Call for participation available: Thursday October 12th 2017
 
-Call for participation closes: Friday 2 December 2016 (there will be no extensions to the deadline!)
+Call for participation closes: Friday November 24th 2017
 
-Devroom schedule available: 16 December 2016
+Devroom schedule available: Friday December 15th 2017
 
 Devroom dinner: TBD
 
-Devroom date: Saturday 4 February 2017
+Devroom date: Sunday February 4th 2018
 
 # Organizers
 
-    Ewan Higgs - Western Digital
     Kenneth Hoste - HPC team at Ghent University
-    Roman Shaposhnik - Pivotal
-    Vasia Kalavri - KTH Royal Institute of Technology (KTH)
+    Vasia Kalavri - ETH Zürich
+    Roman Shaposhnik
 
 Please email hpc-bigdata-devroom@lists.fosdem.org with questions or concerns.
 
