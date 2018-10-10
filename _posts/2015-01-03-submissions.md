@@ -10,7 +10,7 @@ icon-title: true
 We invite presenters to submit talk proposals to present high-quality work with sufficient background
 material to be clear to the HPC, Big Data, and/or Data Science communities.
 Talk proposals should be submitted through the [FOSDEM Pentabarf
-server](https://penta.fosdem.org/submission/FOSDEM18). Submissions must include:
+server](https://penta.fosdem.org/submission/FOSDEM19). Submissions must include:
 
 - Abstract
 - Session type
@@ -30,7 +30,7 @@ We would also like to note:
 <div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
-      <a href="https://penta.fosdem.org/submission/FOSDEM18">
+      <a href="https://penta.fosdem.org/submission/FOSDEM19">
         <i class="fa fa-sign-in">&nbsp;<b>Click here to submit.</b></i>
       </a>
     </span>
