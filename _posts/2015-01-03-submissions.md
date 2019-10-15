@@ -10,7 +10,7 @@ icon-title: true
 We invite presenters to submit talk proposals to present high-quality work with sufficient background
 material to be clear to the HPC, Big Data, and/or Data Science communities.
 Talk proposals should be submitted through the [FOSDEM Pentabarf
-server](https://penta.fosdem.org/submission/FOSDEM19). Submissions must include:
+server](https://penta.fosdem.org/submission/FOSDEM20). Submissions must include:
 
 - Abstract
 - Session type
@@ -22,26 +22,28 @@ server](https://penta.fosdem.org/submission/FOSDEM19). Submissions must include:
 
 Our intention is to have a full day of talks of about 20 minutes each, with an additional 5 minutes for questions by attendees.
 
-We would also like to note: 
+We would also like to note:
 
 - Talks will be streamed live and will be recorded. By submitting a session, speakers agree to being recorded and having their talk made available.
 - All accepted talks will be about (using) free and open source software. We highly discourage "marketing" talks.
 
-<!--<div style="text-align:center;">
+<div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
-      <a href="https://penta.fosdem.org/submission/FOSDEM19">
+      <a href="https://penta.fosdem.org/submission/FOSDEM20">
         <i class="fa fa-sign-in">&nbsp;<b>Click here to submit.</b></i>
       </a>
     </span>
   </p>
-</div>-->
+</div>
+<!--
 <p><strong>Submissions are closed since Friday Nov 23rd 2018.
 The full devroom program is available at <a href="https://fosdem.org/2019/schedule/track/hpc,_big_data_and_data_science/">https://fosdem.org/2019/schedule/track/hpc,_big_data_and_data_science/</a>.</strong>.</p>
+-->
 
-<!--<strong>When submitting your talk in Pentabarf, make sure to select the 'HPC, Big Data,
+<strong>When submitting your talk in Pentabarf, make sure to select the 'HPC, Big Data,
 and Data Science Devroom' as the 'Track'.</strong>
 
 <em>If you already have a Pentabarf account from a previous FOSDEM edition, please reuse it</em>.
 Create an account if, and only if, you don't have one from a previous year. If
-you have any issues with Pentabarf, do not despair: contact hpc-bigdata-devroom [at] lists.fosdem.org .-->
+you have any issues with Pentabarf, do not despair: contact hpc-bigdata-devroom [at] lists.fosdem.org .
