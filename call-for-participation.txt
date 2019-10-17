@@ -1,6 +1,6 @@
-FOSDEM'18 HPC, Big Data, and Data Science Devroom Call for Participation
+FOSDEM'20 HPC, Big Data, and Data Science Devroom Call for Participation
 
-Sunday, February 4th, 2018, Brussels, Belgium
+Sunday, February 2nd, 2020, Brussels, Belgium
 
 # Overview
 
@@ -35,7 +35,7 @@ communities together.
     challenges presented by large scale computing, data management and data
     analysis.
 
-The devroom will take place on Sunday, February 4th, 2018, at ULB (Campus
+The devroom will take place on Sunday, February 2nd, 2020, at ULB (Campus
 Solbosch), in Brussels, Belgium. Join us to enjoy a full day of talks, demos and
 interesting discussions on open-source HPC, Big Data and Data Science.
 
@@ -133,21 +133,22 @@ hpc-bigdata-devroom [at] lists.fosdem.org.
 
 # Dates
 
-Call for participation available: Thursday October 12th 2017
+Call for participation available: Wednesday October 16th 2019
 
-Call for participation closes: Friday November 24th 2017
+Call for participation closes: Friday November 22nd 2019
 
-Devroom schedule available: Friday December 15th 2017
+Devroom schedule available: Wednesday December 11th 2019
 
 Devroom dinner: TBD
 
-Devroom date: Sunday February 4th 2018
+Devroom date: Sunday February 2nd 2020
 
 # Organizers
 
     Kenneth Hoste - HPC team at Ghent University
-    Vasia Kalavri - ETH Zürich
-    Roman Shaposhnik
+    Maximilian Michels - Apache Software Foundation
+    Roman Shaposhnik - Apache Software Foundation 
+    Vasia Kalavri - Boston University
 
 Please email hpc-bigdata-devroom@lists.fosdem.org with questions or concerns.
 
