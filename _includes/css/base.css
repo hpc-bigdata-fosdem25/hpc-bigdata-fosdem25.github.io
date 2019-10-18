@@ -100,7 +100,7 @@
 /* #Lists
 ================================================== */
 	ul, ol { margin-bottom: 20px; }
-	ul { list-style: none outside; }
+	ul { list-style: none outside; margin-top: 12px; }
 	ol { list-style: decimal; }
 	ul, ul.square { list-style: square outside; }
 	ul ul, ul.circle { list-style: circle outside; }
