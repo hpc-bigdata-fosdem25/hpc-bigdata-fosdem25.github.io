@@ -7,7 +7,7 @@ Deadline: Friday November 22, 2019
 Devroom date: Sunday, February 2, 2020, Brussels, Belgium
 
 We are proud to announce the 5th edition of the HPC, Big Data and Data Science
-devroom, co-located with FOSDEM 2018. The devroom is organised by representatives
+devroom, co-located with FOSDEM 2020. The devroom is organised by representatives
 from the HPC and Big Data communities, who are joining forces to bring both
 communities together.
 
