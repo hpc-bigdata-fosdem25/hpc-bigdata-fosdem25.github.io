@@ -3,7 +3,7 @@ FOSDEM'20 HPC, Big Data, and Data Science Devroom
 https://hpc-bigdata-fosdem20.github.io
 
 ** Call for Participation **
-Deadline: Friday November 22, 2019
+Deadline: Friday November 29, 2019
 Devroom date: Sunday, February 2, 2020, Brussels, Belgium
 
 We are proud to announce the 5th edition of the HPC, Big Data and Data Science
@@ -21,7 +21,7 @@ Sounds interesting? Submit your talk proposal and see you in Brussels!
 
     Kenneth Hoste - HPC team at Ghent University
     Maximilian Michels - Apache Software Foundation
-    Roman Shaposhnik - Apache Software Foundation 
+    Roman Shaposhnik - Apache Software Foundation
     Vasia Kalavri - Boston University
 
 Please email hpc-bigdata-devroom@lists.fosdem.org with questions or concerns.
