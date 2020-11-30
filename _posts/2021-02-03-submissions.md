@@ -27,7 +27,7 @@ Our intention is to have a full day of talks of about 20 minutes each, with an a
 
 We would also like to note:
 
-- All accepted talks will be about (using) free and open source software. We highly discourage "marketing" talks.
+- All accepted talks will be about (using) free and open source software.<br/>We highly discourage "marketing" talks.
 - Due to the online format, <strong>presentations will have to be pre-recorded.</strong>
 - Final presentations, including recording, will be <strong>due by mid January 2021</strong>.
 - Talks will be streamed at the planned time slot on Sunday February 7th 2021.
