@@ -26,13 +26,12 @@ Our intention is to have a full day of talks of about 20 minutes each, with an a
 We would also like to note:
 
 - All accepted talks will be about (using) free and open source software.<br/>We highly discourage "marketing" talks.
-- Due to the online format, <strong>accepted talks will have to be pre-recorded.</strong>
+- Due to the online format of FOSDEM'21, <strong>accepted talks will have to be pre-recorded.</strong>
 - Final presentations, including recording, will be <strong>due by mid January 2021</strong>.
 - A devroom volunteer will work together with the speaker to ensure a high-quality recording is available in time.
 - Talks will be <strong>streamed at the planned time slot on Sunday February 7th 2021</strong> (following Brussels time).
 - <strong>Speakers are expected to join their session for live Q&A with attendees after the talk.</strong>
 
-<p align="center"><strong>Submissions will be open (very) soon!</strong></p>
 <div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
@@ -51,6 +50,6 @@ The full devroom program is available at <a href="https://fosdem.org/2019/schedu
 <strong>When submitting your talk in Pentabarf, make sure to select the 'HPC, Big Data,
 and Data Science Devroom' as the 'Track'.</strong>
 
-<em>If you already have a Pentabarf account from a previous FOSDEM edition, please reuse it</em>.
+<em>If you already have a Pentabarf account from a previous FOSDEM edition, please reuse it</em><br/>.
 Create an account if, and only if, you don't have one from a previous year. If
 you have any issues with Pentabarf, do not despair: contact hpc-bigdata-devroom [at] lists.fosdem.org .
