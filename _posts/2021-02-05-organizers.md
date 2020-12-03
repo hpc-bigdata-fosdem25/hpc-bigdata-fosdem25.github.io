@@ -21,7 +21,7 @@ Devroom volunteers:
 * John Dey ([Fred Hutchinson Cancer Research Center](https://sciwiki.fredhutch.org/), US)
 * Bob Dröge ([HPC team at University of Groningen](https://www.rug.nl/society-business/centre-for-information-technology/research/services/hpc/), The Netherlands)
 * Chris Edsall ([HPC team at University of Bristol](https://www.bristol.ac.uk/acrc/high-performance-computing/), UK)
-* Todd Gamblin ([Lawrence Livermore National Laboratory](https://www.llnl.gov/) , US)
+* Todd Gamblin ([Lawrence Livermore National Laboratory](https://www.llnl.gov/), US)
 * Fotis Georgatis ([Swiss Data Science Center](https://datascience.ch/), Switzerland)
 * Andy Georges ([HPC team at Ghent University](http://www.ugent.be/hpc/en), Belgium)
 * Sharan Kalwani (DataSwing Corporation LLC, Austin (TX), US)
