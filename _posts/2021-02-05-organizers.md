@@ -26,7 +26,7 @@ Devroom volunteers:
 * Andy Georges ([HPC team at Ghent University](http://www.ugent.be/hpc/en), Belgium)
 * Sharan Kalwani (DataSwing Corporation LLC, Austin (TX), US)
 * Christian Kniep ([AWS](https://aws.amazon.com/))
-* Jan-Patrick Lehr ([TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Germany)
+* Jan-Patrick Lehr ([Scientific Computing at TU Darmstadt](http://www.sc.informatik.tu-darmstadt.de/), Germany)
 * Bart Oldeman ([Compute Canada](https://www.computecanada.ca))
 * Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
 * Åke Sandgren ([HPC team at Umeå University](https://www.hpc2n.umu.se), Sweden)
