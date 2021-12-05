@@ -18,18 +18,21 @@ encoding: utf-8
 
 Devroom volunteers:
 
-* John Dey ([Fred Hutchinson Cancer Research Center](https://sciwiki.fredhutch.org/), US)
 * Bob Dröge ([HPC team at University of Groningen](https://www.rug.nl/society-business/centre-for-information-technology/research/services/hpc/), The Netherlands)
 * Chris Edsall ([HPC team at University of Bristol](https://www.bristol.ac.uk/acrc/high-performance-computing/), UK)
+* Jan-Patrick Lehr ([Scientific Computing at TU Darmstadt](http://www.sc.informatik.tu-darmstadt.de/), Germany)
+* Bart Oldeman ([Compute Canada](https://www.computecanada.ca))
+* Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
+
+<!--
+* John Dey ([Fred Hutchinson Cancer Research Center](https://sciwiki.fredhutch.org/), US)
 * Todd Gamblin ([Lawrence Livermore National Laboratory](https://www.llnl.gov/), US)
 * Fotis Georgatos ([EPFL](https://www.epfl.ch/en/), Switzerland)
 * Andy Georges ([HPC team at Ghent University](http://www.ugent.be/hpc/en), Belgium)
 * Sharan Kalwani (DataSwing Corporation LLC, Austin (TX), US)
 * Christian Kniep ([AWS](https://aws.amazon.com/))
-* Jan-Patrick Lehr ([Scientific Computing at TU Darmstadt](http://www.sc.informatik.tu-darmstadt.de/), Germany)
-* Bart Oldeman ([Compute Canada](https://www.computecanada.ca))
-* Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
 * Åke Sandgren ([HPC team at Umeå University](https://www.hpc2n.umu.se), Sweden)
 * Davide Vanzo ([Microsoft Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/))
+-->
 
-Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2021/practical/conduct/).
+Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2022/practical/conduct/).
