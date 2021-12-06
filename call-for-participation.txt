@@ -8,6 +8,7 @@ https://hpc-bigdata-fosdem22.github.io
 Submission deadline: Friday Dec 24th 2021
 Devroom date: Sat-Sun 5-6 Feb 2022
 
+
 We are proud to announce the 7th edition of the HPC, Big Data and Data Science devroom at FOSDEM 2022.
 The devroom is organized by representatives from the HPC and Big Data communities, who are joining forces to bring both communities together.
 
@@ -16,14 +17,16 @@ and is open for everybody to join (no registration required).
 
 Join us to enjoy a variety of talks, demos and interesting discussions on open-source HPC, Big Data and Data Science.
 
+
 Sounds interesting? Submit your talk proposal and see you (virtually) at FOSDEM'22!
 
 Submissions are light weight: basically talk title + short description, plain text.
 Accepted talks will need to be pre-recorded by mid Jan'22.
 
+
 Please visit the website for more information: https://hpc-bigdata-fosdem22.github.io, and consider sharing this call for participation with friends and colleagues.
 
-Please contact us via email at hpc-bigdata-devroom@lists.fosdem.org with questions or concerns, or via @fosdem_hpc on Twitter.
+Contact us via email at hpc-bigdata-devroom@lists.fosdem.org with questions or concerns, or via @fosdem_hpc on Twitter.
 
 --
 
