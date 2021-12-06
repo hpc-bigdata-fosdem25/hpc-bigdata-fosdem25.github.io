@@ -1,27 +1,31 @@
-FOSDEM'20 HPC, Big Data, and Data Science Devroom
+FOSDEM'22 HPC, Big Data, and Data Science Devroom
 =================================================
-https://hpc-bigdata-fosdem20.github.io
+
+https://hpc-bigdata-fosdem22.github.io
 
 ** Call for Participation **
-Deadline: Friday November 29, 2019
-Devroom date: Sunday, February 2, 2020, Brussels, Belgium
 
-We are proud to announce the 5th edition of the HPC, Big Data and Data Science
-devroom, co-located with FOSDEM 2020. The devroom is organised by representatives
-from the HPC and Big Data communities, who are joining forces to bring both
-communities together.
+Submission deadline: Friday Dec 24th 2021
+Devroom date: Sat-Sun 5-6 Feb 2022
 
-The devroom will take place on Sunday, February 2nd, 2020, at ULB (Campus
-Solbosch), in Brussels, Belgium. Join us to enjoy a full day of talks, demos and
-interesting discussions on open-source HPC, Big Data and Data Science.
+We are proud to announce the 7th edition of the HPC, Big Data and Data Science devroom at FOSDEM 2022.
+The devroom is organized by representatives from the HPC and Big Data communities, who are joining forces to bring both communities together.
 
-Please visit the website for more information: https://hpc-bigdata-fosdem20.github.io
+The devroom will take place *online* during the weekend of 5-6 Feb 2022,
+and is open for everybody to join (no registration required).
 
-Sounds interesting? Submit your talk proposal and see you in Brussels!
+Join us to enjoy a variety of talks, demos and interesting discussions on open-source HPC, Big Data and Data Science.
 
-    Kenneth Hoste - HPC team at Ghent University
-    Maximilian Michels - Apache Software Foundation
-    Roman Shaposhnik - Apache Software Foundation
-    Vasia Kalavri - Boston University
+Sounds interesting? Submit your talk proposal and see you (virtually) at FOSDEM'22!
 
-Please email hpc-bigdata-devroom@lists.fosdem.org with questions or concerns.
+Submissions are light weight: basically talk title + short description, plain text.
+Accepted talks will need to be pre-recorded by mid Jan'22.
+
+Please visit the website for more information: https://hpc-bigdata-fosdem22.github.io, and consider sharing this call for participation with friends and colleagues.
+
+Please contact us via email at hpc-bigdata-devroom@lists.fosdem.org with questions or concerns, or via @fosdem_hpc on Twitter.
+
+--
+
+Kenneth Hoste - HPC team at Ghent University, Belgium
+Adam Huffman - Big Data Institute, University of Oxford, UK
