@@ -21,7 +21,7 @@ Submissions must include:
 - Links to code / slides / material for the talk (optional)
 - Links to previous talks by the speaker
 
-Our intention is to have a full day of talks of about 20 minutes each, with an additional 5-10 minutes for questions by attendees.
+Our intention is to have a series of talks of about 20 minutes each, with an additional 5-10 minutes for questions by attendees.
 
 We would also like to note:
 
