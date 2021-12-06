@@ -50,6 +50,6 @@ The full devroom program is available at <a href="https://fosdem.org/2019/schedu
 <strong>When submitting your talk in Pentabarf, make sure to select the 'HPC, Big Data,
 and Data Science Devroom' as the 'Track'.</strong>
 
-<em>If you already have a Pentabarf account from a previous FOSDEM edition, please reuse it</em><br/>.
+<em>If you already have a Pentabarf account from a previous FOSDEM edition, please reuse it</em>.<br/>
 Create an account if, and only if, you don't have one from a previous year. If
 you have any issues with Pentabarf, do not despair: contact hpc-bigdata-devroom [at] lists.fosdem.org .
