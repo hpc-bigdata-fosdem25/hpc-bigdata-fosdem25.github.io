@@ -19,7 +19,7 @@ encoding: utf-8
 Devroom volunteers:
 
 * Bob Dröge ([HPC team at University of Groningen](https://www.rug.nl/society-business/centre-for-information-technology/research/services/hpc/), The Netherlands)
-* Chris Edsall ([HPC team at University of Bristol](https://www.bristol.ac.uk/acrc/high-performance-computing/), UK)
+* Chris Edsall ([Research Computing Services team at University of Cambridge](https://www.hpc.cam.ac.uk/), UK)
 * Jan-Patrick Lehr ([Scientific Computing at TU Darmstadt](http://www.sc.informatik.tu-darmstadt.de/), Germany)
 * Bart Oldeman ([Compute Canada](https://www.computecanada.ca))
 * Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
