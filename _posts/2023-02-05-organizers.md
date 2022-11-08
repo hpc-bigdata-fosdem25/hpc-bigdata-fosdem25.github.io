@@ -18,11 +18,12 @@ encoding: utf-8
 
 Devroom volunteers:
 
-* Bob Dröge ([HPC team at University of Groningen](https://www.rug.nl/society-business/centre-for-information-technology/research/services/hpc/), The Netherlands)
-* Chris Edsall ([Research Computing Services team at University of Cambridge](https://www.hpc.cam.ac.uk/), UK)
-* Jan-Patrick Lehr ([Scientific Computing at TU Darmstadt](http://www.sc.informatik.tu-darmstadt.de/), Germany)
-* Bart Oldeman ([Compute Canada](https://www.computecanada.ca))
-* Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
+* Aleksander Dubas ([UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority))
+<!--* Bob Dröge ([HPC team at University of Groningen](https://www.rug.nl/society-business/centre-for-information-technology/research/services/hpc/), The Netherlands)-->
+<!--* Chris Edsall ([Research Computing Services team at University of Cambridge](https://www.hpc.cam.ac.uk/), UK)-->
+* Jan-Patrick Lehr ([AMD](https://www.amd.com))
+<!--* Bart Oldeman ([Compute Canada](https://www.computecanada.ca))-->
+<!--* Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)-->
 
 <!--
 * John Dey ([Fred Hutchinson Cancer Research Center](https://sciwiki.fredhutch.org/), US)
@@ -35,4 +36,4 @@ Devroom volunteers:
 * Davide Vanzo ([Microsoft Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/))
 -->
 
-Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2022/practical/conduct/).
+Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2023/practical/conduct/).

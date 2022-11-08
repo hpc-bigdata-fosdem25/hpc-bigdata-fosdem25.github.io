@@ -26,16 +26,14 @@ Our intention is to have a series of talks of about 20 minutes each, with an add
 We would also like to note:
 
 - All accepted talks will be about (using) free and open source software.<br/>We highly discourage "marketing" talks.
-- Due to the online format of FOSDEM'22, <strong>accepted talks will have to be pre-recorded.</strong>
-- Final presentations, including recording, will be <strong>due by mid January 2022</strong>.
-- A devroom volunteer will work together with the speaker to ensure a high-quality recording is available in time.
-- Talks will be <strong>streamed at the planned time slot during the weekend of Sat-Sunday 5-6 February 2022</strong> (following Brussels time).
-- <strong>Speakers are expected to join their session for live Q&A with attendees after the talk.</strong>
+- All talks will be given *in-person* at FOSDEM in Brussels, on Sunday 5 February 2023.<br/>
+  <strong>Please take this into account when submitting your talk.</strong><br/>
+  Remote presentations will unfortunately not be possible.
 
 <div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
-      <a href="https://penta.fosdem.org/submission/FOSDEM22">
+      <a href="https://penta.fosdem.org/submission/FOSDEM23">
         <i class="fa fa-sign-in">&nbsp;<b>Click here to submit.</b></i>
       </a>
     </span>
