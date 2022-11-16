@@ -23,7 +23,7 @@ Devroom volunteers:
 <!--* Chris Edsall ([Research Computing Services team at University of Cambridge](https://www.hpc.cam.ac.uk/), UK)-->
 * Jan-Patrick Lehr ([AMD](https://www.amd.com))
 <!--* Bart Oldeman ([Compute Canada](https://www.computecanada.ca))-->
-<!--* Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)-->
+* Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
 
 <!--
 * John Dey ([Fred Hutchinson Cancer Research Center](https://sciwiki.fredhutch.org/), US)
