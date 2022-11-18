@@ -24,6 +24,7 @@ Devroom volunteers:
 * Jan-Patrick Lehr ([AMD](https://www.amd.com))
 <!--* Bart Oldeman ([Compute Canada](https://www.computecanada.ca))-->
 * Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
+* Alan Sill ([Texas Tech University](https://www.ttu.edu/), US)
 
 <!--
 * John Dey ([Fred Hutchinson Cancer Research Center](https://sciwiki.fredhutch.org/), US)
