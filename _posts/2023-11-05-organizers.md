@@ -15,6 +15,7 @@ encoding: utf-8
 
 Devroom volunteers:
 
+* David Llewellyn-Jones - [The Alan Turing Institute](https://www.turing.ac.uk)
 * Lara Peeters - [HPC team at Ghent University, Belgium](http://www.ugent.be/hpc/en)
 * Jan-Patrick Lehr ([AMD](https://www.amd.com))
 * Ward Poelmans ([HPC team at Vrije Universiteit Brussel](https://hpc.vub.be/), Belgium)
