@@ -9,7 +9,8 @@ Submission deadline: Friday 1 Dec 2023
 Devroom date: Sat 3 Feb 2024
 
 
-We are proud to announce the 9th edition of the HPC, Big Data and Data Science devroom at FOSDEM 2024.
+We are proud to announce the 9th edition of the HPC, Big Data and Data Science devroom at FOSDEM 2024 in Brussels (Belgium).
+
 It is organised by representatives of the HPC, Big Data, and Data Science communities,
 who are joining forces to bring them together.
 
