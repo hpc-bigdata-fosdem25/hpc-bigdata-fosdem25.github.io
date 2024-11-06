@@ -10,8 +10,8 @@ encoding: utf-8
 
 ## Organizers
 
-* Kenneth Hoste ([Twitter](https://twitter.com/kehoste), [Mastodon](https://mast.hpc.social/@boegel), [GitHub](https://github.com/boegel)) - [HPC team at Ghent University, Belgium](http://www.ugent.be/hpc/en)
-* [Adam Huffman](https://twitter.com/adamhuffman) - [Big Data Institute, Oxford, UK](https://www.bdi.ox.ac.uk)
+* Kenneth Hoste ([X](https://twitter.com/kehoste), [Mastodon](https://mast.hpc.social/@boegel), [GitHub](https://github.com/boegel)) - [HPC team at Ghent University, Belgium](http://www.ugent.be/hpc/en)
+* Adam Huffman ([X](https://twitter.com/adamhuffman)) - [Big Data Institute, Oxford, UK](https://www.bdi.ox.ac.uk)
 
 Devroom volunteers:
 

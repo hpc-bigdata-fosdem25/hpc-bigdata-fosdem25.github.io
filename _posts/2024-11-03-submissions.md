@@ -14,7 +14,7 @@ Talk proposals should be submitted through the official FOSDEM'25 submission sys
 
 Submissions must include:
 
-- Talk title + abstract + description (plain text or MarkDown, couple of paragraps)
+- Talk title + abstract + description (plain text or MarkDown, couple of paragraphs)
 - Expected prior knowledge / intended audience
 - Speaker(s) bio
 - Links to code / slides / material for the talk (optional)
